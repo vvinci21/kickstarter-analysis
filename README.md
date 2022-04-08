@@ -9,7 +9,7 @@ Analysis on Kickstarter Data
 * Difficulties
 
 ## Results
-* What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+* In conclusion the data shows that thearer outcome success rate is more likely in the May/June time frame while success sharly falls off in the third quarter of the year.
 * What can you conclude about the Outcomes based on Goals?
 * What are some limitations of this dataset?
 * What are some other possible tables and/or graphs that we could create?
