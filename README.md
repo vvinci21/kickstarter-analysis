@@ -1,8 +1,8 @@
 # kickstarter-analysis
 Analysis on Kickstarter Data
 
-##Overview of Project
+## Overview of Project
 
-##Analysis and Challenges
+## Analysis and Challenges
 
-##Results
+## Results
