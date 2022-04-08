@@ -6,6 +6,11 @@ Analysis on Kickstarter Data
 
 ## Analysis and Challenges
 * Overview of Analysis
+* 
+![Outcomes vs Goals](Outcomes_vs_Goals.png)
+
+![Theater Outcomes by Launch](Theater_Outcomes_vs_Launch.png)
+
 * Difficulties
 
 ## Results
