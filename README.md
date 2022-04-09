@@ -2,7 +2,7 @@
 Analysis on Kickstarter Data
 
 ## Overview of Project
-* The goal of this project is to analyze the kickstarter data to determine trends. Key trends that were identified were theater outcomes based on launch date and the outcome of the kickstarters based on the size of the goal.
+* The goal of this project is to analyze the kickstarter data to determine trends. Key trends that were identified were theater outcomes based on launch date and the outcome of the kickstarters based on the size of the funding goal.
 
 ## Analysis and Challenges
 ### Overview of Analysis
