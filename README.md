@@ -12,7 +12,7 @@ Analysis on Kickstarter Data
 * The chart below shows the correlation between the outcome of the kickstarter and the goal set. As you can see as the goal target increases the success rate decreases. There is one collection of data that seems to be an anomaly that does not follow this trend between $35,000 and $44,999. 
 * This data was obtained by using the `countifs()` function for the goal range on plays as well as if a kickstarter was successful, failed, or canceled. Then the `sum()` function to add the number of successful, faild and canceled to populate the total number of projects. After the percentage of each category was then calculated using `round(category/totalprojects*100,0)`
 
-![Outcomes based on Goals]
+
 
    #### Theater Outcomes by Launch Date
 
