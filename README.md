@@ -6,7 +6,8 @@ Analysis on Kickstarter Data
 
 ## Analysis and Challenges
 ### Overview of Analysis
-* The data filed that was used to create the analysis can be found here [DataFileforKickstarters](Kickstarter_Challenge.xlsx.zip)
+   * The data file that was used to create the analysis can be found here [DataFileforKickstarters](Kickstarter_Challenge.xlsx.zip)
+   
    #### Outcomes based on Goals
 
 * The chart below shows the correlation between the outcome of the kickstarter for plays and the goal set. As you can see as the goal target increases the success rate decreases. There is one collection of data that seems to be an anomaly that does not follow this trend between $35,000 and $44,999. 
