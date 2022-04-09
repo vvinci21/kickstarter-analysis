@@ -13,7 +13,7 @@ Analysis on Kickstarter Data
 
 * The data was also organized to show theater outcomes by launch date. In this chart it easy to see that launch dates around May and June are the most successful. It is also obvious in the chart to identify there is a steady decline in success after to June through the end of the year. This data was easily organized in 
 
-![Theater Outcomes by Launch]
+![Theater Outcomes by Launch](Theater_Outcomes_vs_Launch.png)
 
 * Some possible challenges one may encounter are having the data in the correct axis so that the line chart display properly. Another could be the syntax in the `countifs` function due to the length and multiple items be identified. 
 
