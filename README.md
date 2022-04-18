@@ -19,7 +19,7 @@ Analysis on Kickstarter Data
 
 * The data was also organized to show theater outcomes by launch date. In this chart it easy to see that launch dates around May and June are the most successful. It is also obvious in the chart to identify there is a steady decline in success after to June through the end of the year. This data was easily organized in 
 
-![Theater Outcomes by Launch](Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes by Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Challanges
 
